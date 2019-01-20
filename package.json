@@ -1,0 +1,16 @@
+{
+  "name": "node-pivot",
+  "version": "1.0.0",
+  "description": "Return pivot index of a list of integers",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pivot",
+    "integers"
+  ],
+  "author": "Melisa Cecilia",
+  "license": "ISC",
+  "dependencies": {}
+}
